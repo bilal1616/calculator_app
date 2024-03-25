@@ -10,7 +10,7 @@ Flutter ile geliştirilmiş GetX mimarisi kullanılarak state yönetimleri sağl
 
 ## Ekran Görüntüleri
 </br>
-<img src="assets/light1.png" height="">
-<img src="assets/light2.png" height="">
-<img src="assets/dark1.png" height="">
-<img src="assets/dark2.png" height="">
+<img src="assets/light1.png" height="350">
+<img src="assets/light2.png" height="350">
+<img src="assets/dark1.png" height="350">
+<img src="assets/dark2.png" height="350">
