@@ -85,8 +85,8 @@ class MainScreen extends StatelessWidget {
                           ? DarkColors.leftOperatorColor
                           : LightColors.leftOperatorColor,
                       textColor: themeController.isDark
-                          ? DarkColors.btnBgColor
-                          : DarkColors.btnBgColor,
+                          ? Colors.white
+                          : Colors.white,
                       text: buttons[index],
                     );
 
@@ -100,8 +100,8 @@ class MainScreen extends StatelessWidget {
                             ? DarkColors.leftOperatorColor
                             : LightColors.leftOperatorColor,
                         textColor: themeController.isDark
-                            ? DarkColors.btnBgColor
-                            : DarkColors.btnBgColor,
+                            ? Colors.white
+                            : Colors.white,
                         text: buttons[index]);
 
                   /// EQUAL BTN
@@ -114,8 +114,8 @@ class MainScreen extends StatelessWidget {
                             ? DarkColors.leftOperatorColor
                             : LightColors.leftOperatorColor,
                         textColor: themeController.isDark
-                            ? DarkColors.btnBgColor
-                            : DarkColors.btnBgColor,
+                            ? Colors.white
+                            : Colors.white,
                         text: buttons[index]);
 
                   case 18:
@@ -147,7 +147,7 @@ class MainScreen extends StatelessWidget {
                       textColor: isOperator(buttons[index])
                           ? Colors.white
                           : themeController.isDark
-                              ? Colors.black
+                              ? Colors.white
                               : Colors.white,
                       text: buttons[index],
                     );
