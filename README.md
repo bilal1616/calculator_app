@@ -17,6 +17,8 @@ Flutter ile geliştirilmiş GetX mimarisi kullanılarak state yönetimleri sağl
 <img src="assets/light2.png" height="400">
 </div>
 
+</br>
+
 - Dark Tema
 <div class=row">
 <img src="assets/dark1.png" height="400">
